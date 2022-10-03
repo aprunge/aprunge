@@ -1,4 +1,4 @@
-### Hi there 👋
+### GPU Passthrough in Java 👋
 
 🔭 I’m currently working on GPU Passthrough in Java
 🌱 I’m currently learning GPU Passthrough in Java
