@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on GPU Passthrough in Java
 🌱 I’m currently learning GPU Passthrough in Java
-👯 I’m looking to collaborate on Optimized Random Number Generator
-🤔 I’m looking for help with getting better at Fortnite
-💬 Ask me about my favorite Monster flavor (the white one)
-📫 How to reach me: Don't.
-😄 Pronouns: ga/mer
-⚡ Fun fact: I'm racist
+👯 I’m looking to collaborate on GPU Passthrough in Java
+🤔 I’m looking for help with GPU Passthrough in Java
+💬 Ask me about GPU Passthrough in Java
+📫 How to reach me: GPU Passthrough in Java
+😄 Pronouns: GPU Passthrough in Java
+⚡ Fun fact: GPU Passthrough in Java
